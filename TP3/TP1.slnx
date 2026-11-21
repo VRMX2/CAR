@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RemotingInterfaces/RemotingInterfaces.csproj" Id="ededd751-617c-4e59-9cda-8a4c38300538" />
+  <Project Path="RemotingServeur/RemotingServeur.csproj" Id="74f3dd06-57f2-4111-ab4e-b2967879ffcf" />
+  <Project Path="TP1/TP1.csproj" Id="7560f5bc-a8df-47b3-86bb-6402401ae8c3" />
+</Solution>

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Client/Client.csproj" Id="e55067fa-e3e7-4ad0-ab11-45388b4f0238" />
+  <Project Path="TcpServeur/TcpServeur.csproj" Id="b9dc3ec6-4978-4eb5-8983-95e0c269e9d6" />
+  <Project Path="TP1/TP1.csproj" Id="7560f5bc-a8df-47b3-86bb-6402401ae8c3" />
+  <Project Path="UdpServeur/UdpServeur.csproj" Id="bb97a906-a07e-4ca4-a700-8970d61bbf32" />
+</Solution>
