@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="RemotingClient/RemotingClient.csproj" />
+  <Project Path="RemotingInterfaces/RemotingInterfaces.csproj" />
+  <Project Path="RemotingServer/RemotingServer.csproj" />
+</Solution>

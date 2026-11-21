@@ -13,7 +13,7 @@ namespace RemotingClient
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormCourse());
+            Application.Run(new FormEns());
         }
     }
 }
