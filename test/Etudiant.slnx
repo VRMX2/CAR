@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="RemotingClient/RemotingClient.csproj" Id="12918b7a-eaa9-4a8f-bd54-222424b3df6d">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="RemotingInterfaces/RemotingInterfaces.csproj" Id="a70e1f99-ce6f-4522-bb5f-7a6ecb768740">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="RemotingServer/RemotingServer.csproj" Id="fd604722-da1f-45f0-8464-5e9beaae7b78">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
